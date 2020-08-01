@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react-native-webview": "^10.3.3",
+    "react-native-webview": "^10.3.3"
   },
   "repository": {
     "type": "git",
